@@ -1,0 +1,924 @@
+{
+    "msg": "OK",
+    "code": 1,
+    "data": [
+        {
+            "siteImage":"https://www.sunset.com/wp-content/uploads/96006df453533f4c982212b8cc7882f5-800x0-c-default.jpg",
+            "siteType":"雨量站",
+            "siteName":"新建雨量站2（二道河水位流速共用）",
+            "remarks":"二道河水位流速站共用RTU",
+            "explain":"二道河水位流速共用",
+            "stationCode":"6270402C",
+            "userNum":"1410379797065",
+            "location": [119.42743166,32.42482177]
+        },
+        {
+            "siteImage":"https://www.sunset.com/wp-content/uploads/96006df453533f4c982212b8cc7882f5-800x0-c-default.jpg",
+            "siteType":"雨量站",
+            "siteName":"新建雨量站1（冷却河闸共用）",
+            "remarks":"冷却河闸共RTU",
+            "explain":"冷却河闸共用",
+            "stationCode":"627B069C",
+            "userNum":"1410379790842",
+            "location": [119.47354944,32.39405014]
+        },
+        {
+            "siteImage":"https://www.sunset.com/wp-content/uploads/96006df453533f4c982212b8cc7882f5-800x0-c-default.jpg",
+            "siteType":"雨量站",
+            "siteName":"新建雨量站1（冷却河闸共用）",
+            "remarks":"冷却河闸共RTU",
+            "explain":"冷却河闸共用",
+            "stationCode":"627B069C",
+            "userNum":"1410379790842",
+            "location": [119.47354944,32.42482177]
+        },
+        {
+            "siteImage":"https://www.sunset.com/wp-content/uploads/96006df453533f4c982212b8cc7882f5-800x0-c-default.jpg",
+            "siteType":"雨量站",
+            "siteName":"新建雨量站3(乌塔沟水位流速共用)",
+            "remarks":"乌塔沟水位流速共用RTU",
+            "explain":"乌塔沟水位流速共用",
+            "stationCode":"6270504C",
+            "userNum":"1410379780583",
+            "location": [119.32858486,32.36818831]
+        },
+        {
+            "siteImage":"https://www.sunset.com/wp-content/uploads/96006df453533f4c982212b8cc7882f5-800x0-c-default.jpg",
+            "siteType":"雨量站",
+            "siteName":"新建雨量站4（蒸发站共用，陆洲泵站内）",
+            "remarks":"",
+            "explain":"蒸发站共用，陆洲泵站内",
+            "stationCode":"6272004C",
+            "userNum":"1410379781540",
+            "location": [119.37378200,32.328115]
+        },
+        {
+            "siteImage":"https://www.sunset.com/wp-content/uploads/96006df453533f4c982212b8cc7882f5-800x0-c-default.jpg",
+            "siteType":"雨量站",
+            "siteName":"新建雨量站5（吴庄河闸共用）",
+            "remarks":"吴庄河闸共RTU",
+            "explain":"吴庄河闸共",
+            "stationCode":"627B002C",
+            "userNum":"1410379791782",
+            "location": [119.46026636,32.3001056]
+        },
+        {
+            "siteType":"雨量站",
+            "siteName":"新建雨量站6（马港河水位站共用）",
+            "remarks":"马港河水位站共用RTU",
+            "explain":"马港河水位站共用",
+            "stationCode":"6272005C",
+            "userNum":"1410379797045",
+            "location": [119.42198908,32.3001056]
+        },
+        {
+            "siteType":"雨量站",
+            "siteName":"新建雨量站7（团结河雨量站）",
+            "remarks":"团结河雨量站",
+            "explain":"团结河雨量站",
+            "stationCode":"6272007C",
+            "userNum":"1410379783103",
+            "location": [119.36540300,32.277522]
+        },
+        {
+            "siteType":"蒸发站",
+            "siteName":"新建蒸发站（陆洲泵站内）",
+            "remarks":"",
+            "explain":"陆洲泵站内",
+            "stationCode":"6275001C",
+            "userNum":"1410379781540",
+            "location": [119.41271300,32.33290400]
+        },
+        {
+            "siteType":"单点水位站",
+            "siteName":"施桥港水位站",
+            "remarks":"",
+            "explain":"",
+            "stationCode":"6270002C",
+            "userNum":"1410379781260",
+            "location": [119.44909027,32.31416116]
+        },
+        {
+            "siteType":"单点水位站",
+            "siteName":"马港河水位站",
+            "remarks":"",
+            "explain":"",
+            "stationCode":"6270002C",
+            "userNum":"1410379781260",
+            "location": [119.44909027,32.31416116]
+        },
+        {
+            "siteType":"单点水位站",
+            "siteName":"沙施河水位站",
+            "remarks":"新建雨量站6",
+            "explain":"共用RTU",
+            "stationCode":"6272005C",
+            "userNum":"1410379781260",
+            "location": [119.42198908,32.30010560]
+        },
+        {
+            "siteType":"单点水位站",
+            "siteName":"向阳河水位站1",
+            "remarks":"",
+            "explain":"",
+            "stationCode":"6270005C",
+            "userNum":"1410379781340",
+            "location": [119.46552433,32.39821966]
+        },
+        {
+            "siteType":"单点水位站",
+            "siteName":"七里河水位站",
+            "remarks":"",
+            "explain":"江苏丰华建筑系统集成有限公司附近",
+            "stationCode":"6270007C",
+            "userNum":"1410379794524",
+            "location": [119.38905484,32.30179199]
+        },
+        {
+            "siteType":"单点水位站",
+            "siteName":"古运河水位站1",
+            "remarks":"",
+            "explain":"",
+            "stationCode":"6270008C",
+            "userNum":"1410379781200",
+            "location": [119.46150996,32.37673233]
+        },
+        {
+            "siteType":"单点水位站",
+            "siteName":"玉带河水位站",
+            "remarks":"",
+            "explain":"扬州南方废纸回收有限公司附近",
+            "stationCode":"6270009C",
+            "userNum":"1410379794464",
+            "location": [119.39357255,32.26290915]
+        },
+        {
+            "siteType":"单点水位站",
+            "siteName":"古运河水位站2",
+            "remarks":"",
+            "explain":"",
+            "stationCode":"6270010C",
+            "userNum":"1410379761561",
+            "location": [119.43428206,32.40475746]
+        },
+        {
+            "siteType":"单点水位站",
+            "siteName":"中心河水位站",
+            "remarks":"",
+            "explain":"周倪庄附近",
+            "stationCode":"6270011C",
+            "userNum":"1410379781300",
+            "location": [119.38317573,32.26802885]
+        },
+        {
+            "siteType":"单点水位站",
+            "siteName":"保障湖水位站",
+            "remarks":"",
+            "explain":"",
+            "stationCode":"6270012C",
+            "userNum":"1410379790477",
+            "location": [119.36052149,32.36938599]
+        },
+        {
+            "siteType":"单点水位站",
+            "siteName":"春江河水位站",
+            "remarks":"",
+            "explain":"",
+            "stationCode":"6270013C",
+            "userNum":"1410379783283",
+            "location": [119.43028652,32.27875675]
+        },
+        {
+            "siteType":"单点水位站",
+            "siteName":"周庄河水位站",
+            "remarks":"",
+            "explain":"",
+            "stationCode":"6270015C",
+            "userNum":"1410379791882",
+            "location": [119.44849948,32.34393132]
+        },
+        {
+            "siteType":"单点水位站",
+            "siteName":"瘦西湖水位站",
+            "remarks":"",
+            "explain":"",
+            "stationCode":"6270201C",
+            "userNum":"1410379779523",
+            "location": [119.42102204,32.40735703]
+        },
+        {
+            "siteType":"水位流速站",
+            "siteName":"仪扬河水位站、仪扬河流速站",
+            "remarks":"",
+            "explain":"",
+            "stationCode":"6270101C",
+            "userNum":"1410379781280",
+            "location": [119.39536901,32.32760106]
+        },
+        
+        {
+            "siteType":"水位流速站",
+            "siteName":"仪扬河水位站、仪扬河流速站",
+            "remarks":"",
+            "explain":"惠生化工机械有限公司附近",
+            "stationCode":"6270102C",
+            "userNum":"1410379781240",
+            "location": [119.37255394,32.34630806]
+        },
+        {
+            "siteType":"水位流速站",
+            "siteName":"赵家支沟水位流速站2",
+            "remarks":"新建雨量站5共RTU",
+            "explain":"1孔闸",
+            "stationCode":"627B002C",
+            "userNum":"1410379791782",
+            "location": [119.46026636,32.35968239]
+        },
+        {
+            "siteType":"水位流速站",
+            "siteName":"横沟河水位站、横沟河流速站",
+            "remarks":"新建雨量站5共RTU",
+            "explain":"1孔闸",
+            "stationCode":"627B002C",
+            "userNum":"1410379791782",
+            "location": [119.46026636,32.35968239]
+        },
+        {
+            "siteType":"水位流速站",
+            "siteName":"邗沟水位站、邗沟流速站",
+            "remarks":"新建雨量站5共RTU",
+            "explain":"1孔闸",
+            "stationCode":"627B002C",
+            "userNum":"1410379791782",
+            "location": [119.46026636,32.35968239]
+        },
+        {
+            "siteType":"水位流速站",
+            "siteName":"古运河水位站4、古运河流速站4",
+            "remarks":"新建雨量站5共RTU",
+            "explain":"1孔闸",
+            "stationCode":"627B002C",
+            "userNum":"1410379791782",
+            "location": [119.46026636,32.35968239]
+        },
+        {
+            "siteType":"水位流速站",
+            "siteName":"古运河流速站3",
+            "remarks":"新建雨量站5共RTU",
+            "explain":"1孔闸",
+            "stationCode":"627B002C",
+            "userNum":"1410379791782",
+            "location": [119.46026636,32.35968239]
+        },
+        {
+            "siteType":"水位流速站",
+            "siteName":"七里沟（南）水位流速站",
+            "remarks":"新建雨量站5共RTU",
+            "explain":"1孔闸",
+            "stationCode":"627B002C",
+            "userNum":"1410379791782",
+            "location": [119.46026636,32.35968239]
+        },
+        {
+            "siteType":"水位流速站",
+            "siteName":"赵家支沟水位流速站1",
+            "remarks":"新建雨量站5共RTU",
+            "explain":"1孔闸",
+            "stationCode":"627B002C",
+            "userNum":"1410379791782",
+            "location": [119.46026636,32.35968239]
+        },
+        {
+            "siteType":"水位流速站",
+            "siteName":"古运河水位站1、古运河流速站1",
+            "remarks":"新建雨量站5共RTU",
+            "explain":"1孔闸",
+            "stationCode":"627B002C",
+            "userNum":"1410379791782",
+            "location": [119.46026636,32.35968239]
+        },
+        {
+            "siteType":"水位流速站",
+            "siteName":"新城河水位站、新城河流速站",
+            "remarks":"新建雨量站5共RTU",
+            "explain":"1孔闸",
+            "stationCode":"627B002C",
+            "userNum":"1410379791782",
+            "location": [119.46026636,32.35968239]
+        },
+        {
+            "siteType":"水位流速站",
+            "siteName":"古运河水位站3、古运河流速站2",
+            "remarks":"新建雨量站5共RTU",
+            "explain":"1孔闸",
+            "stationCode":"627B002C",
+            "userNum":"1410379791782",
+            "location": [119.46026636,32.35968239]
+        },
+        {
+            "siteType":"水位流速站",
+            "siteName":"七里沟（北）水位流速站",
+            "remarks":"新建雨量站5共RTU",
+            "explain":"1孔闸",
+            "stationCode":"627B002C",
+            "userNum":"1410379791782",
+            "location": [119.46026636,32.35968239]
+        },
+        {
+            "siteType":"水位流速站",
+            "siteName":"二道河水位站、二道河流速站",
+            "remarks":"新建雨量站5共RTU",
+            "explain":"1孔闸",
+            "stationCode":"627B002C",
+            "userNum":"1410379791782",
+            "location": [119.46026636,32.35968239]
+        },
+        {
+            "siteType":"水位流速站",
+            "siteName":"叶桥大沟水位站、叶桥大沟流速站",
+            "remarks":"新建雨量站5共RTU",
+            "explain":"1孔闸",
+            "stationCode":"627B002C",
+            "userNum":"1410379791782",
+            "location": [119.46026636,32.35968239]
+        },
+        {
+            "siteType":"水位流速站",
+            "siteName":"向阳河流速站",
+            "remarks":"新建雨量站5共RTU",
+            "explain":"1孔闸",
+            "stationCode":"627B002C",
+            "userNum":"1410379791782",
+            "location": [119.46026636,32.35968239]
+        },
+        {
+            "siteType":"水位流速站",
+            "siteName":"邗江河水位流速站",
+            "remarks":"新建雨量站5共RTU",
+            "explain":"1孔闸",
+            "stationCode":"627B002C",
+            "userNum":"1410379791782",
+            "location": [119.46026636,32.35968239]
+        },
+        {
+            "siteType":"水位流速站",
+            "siteName":"宝带河水位站、宝带河流速站",
+            "remarks":"新建雨量站5共RTU",
+            "explain":"1孔闸",
+            "stationCode":"627B002C",
+            "userNum":"1410379791782",
+            "location": [119.46026636,32.35968239]
+        },
+        {
+            "siteType":"水位流速站",
+            "siteName":"乌塔沟水位流速站",
+            "remarks":"新建雨量站5共RTU",
+            "explain":"1孔闸",
+            "stationCode":"627B002C",
+            "userNum":"1410379791782",
+            "location": [119.46026636,32.35968239]
+        },
+        {
+            "siteType":"水位流速站",
+            "siteName":"沙施河流速站",
+            "remarks":"新建雨量站5共RTU",
+            "explain":"1孔闸",
+            "stationCode":"627B002C",
+            "userNum":"1410379791782",
+            "location": [119.46026636,32.35968239]
+        },
+        {
+            "siteType":"广陵工情站",
+            "siteName":"吴庄河闸（闸上游雷达+闸下游雷达+闸位）",
+            "remarks":"新建雨量站5共RTU",
+            "explain":"1孔闸",
+            "stationCode":"627B003C",
+            "userNum":"1410379791862",
+            "location": [119.46026636,32.35968239]
+        },
+        {
+            "siteType":"广陵工情站",
+            "siteName":"甪里闸（闸下游激光+闸位）",
+            "remarks":"闸下游水位，1个闸位计",
+            "explain":"1孔闸门+2台泵",
+            "stationCode":"627B002C",
+            "userNum":"1410379791782",
+            "location": [119.47584717,32.36507085]
+        },
+        {
+            "siteType":"广陵工情站",
+            "siteName":"甪里闸（内河雷达+多功能仪表）",
+            "remarks":"闸上游水位、2个多功能仪表",
+            "explain":"",
+            "stationCode":"627B076C",
+            "userNum":"1410379791902",
+            "location": [119.47584717,32.36507085]
+        },
+        {
+            "siteType":"广陵工情站",
+            "siteName":"跃进闸（内河雷达+闸位+多功能仪表）",
+            "remarks":"内河水位、1个闸位计，2个多功能仪表",
+            "explain":"1孔闸门+2台泵",
+            "stationCode":"627B033C",
+            "userNum":"1410379791742",
+            "location": [119.43223375,32.35294469]
+        },
+        {
+            "siteType":"广陵工情站",
+            "siteName":"五里庵闸（外河雷达）",
+            "remarks":"新建雨量站5共RTU",
+            "explain":"1孔闸",
+            "stationCode":"627B002C",
+            "userNum":"1410379791782",
+            "location": [119.46026636,32.35968239]
+        },
+        {
+            "siteType":"广陵工情站",
+            "siteName":"五里庵闸（内河雷达+闸位+多功能仪表）",
+            "remarks":"外河水位",
+            "explain":"1孔闸门+3台泵",
+            "stationCode":"627B004C",
+            "userNum":"1410379783143",
+            "location": [119.43100116,32.34546457]
+        },
+        {
+            "siteType":"广陵工情站",
+            "siteName":"丁家河闸站（内河激光+闸位+多功能仪表）",
+            "remarks":"内河水位、1个闸位计,3个多功能仪表",
+            "explain":"",
+            "stationCode":"627B071C",
+            "userNum":"1410379791842",
+            "location": [119.43100116,32.34546457]
+        },
+        {
+            "siteType":"广陵工情站",
+            "siteName":"横沟东闸（闸位）",
+            "remarks":"内河水位、1个闸位计,2个多功能仪表",
+            "explain":"1孔闸+2台泵",
+            "stationCode":"627B042C",
+            "userNum":"1410379794330",
+            "location": [119.48222870,32.40985662]
+        },
+        {
+            "siteType":"广陵工情站",
+            "siteName":"横沟东闸（闸位）",
+            "remarks":"1个闸位计",
+            "explain":"1孔闸",
+            "stationCode":"627B042C",
+            "userNum":"1410379794330",
+            "location": [119.47427687,32.35253472]
+        },
+        {
+            "siteType":"开发区工情站",
+            "siteName":"吕桥泵站（内河激光+外河激光）",
+            "remarks":"闸上游水位、1个闸位计",
+            "explain":"1孔闸",
+            "stationCode":"627B038C",
+            "userNum":"1410379783323",
+            "location": [119.41821777,32.32772776]
+        },
+        {
+            "siteType":"开发区工情站",
+            "siteName":"吕桥泵站（闸位+多功能仪表）",
+            "remarks":"吕桥河闸（闸下游雷达",
+            "explain":"1孔闸",
+            "stationCode":"627B038C",
+            "userNum":"1410379783323",
+            "location": [119.41821777,32.32772778]
+        },
+        {
+            "siteType":"开发区工情站",
+            "siteName":"吕桥河闸（闸上游雷达+闸位）",
+            "remarks":"闸上游水位、1个闸位计",
+            "explain":"1孔闸",
+            "stationCode":"627B038C",
+            "userNum":"1410379783323",
+            "location": [119.41392804, 32.35140177]
+        },
+        {
+            "siteType":"开发区工情站",
+            "siteName":"吕桥河闸（闸上游雷达+闸位）",
+            "remarks":"闸上游水位、1个闸位计",
+            "explain":"1孔闸",
+            "stationCode":"627B038C",
+            "userNum":"1410379783323",
+            "location": [119.41392804, 32.35140179]
+        },
+        {
+            "siteType":"开发区工情站",
+            "siteName":"吕桥河闸（闸上游雷达+闸位）",
+            "remarks":"闸上游水位、1个闸位计",
+            "explain":"1孔闸",
+            "stationCode":"627B038C",
+            "userNum":"1410379783323",
+            "location": [119.41001298, 32.30736053]
+        },
+        {
+            "siteType":"开发区工情站",
+            "siteName":"吕桥河闸（闸上游雷达+闸位）",
+            "remarks":"闸上游水位、1个闸位计",
+            "explain":"1孔闸",
+            "stationCode":"627B038C",
+            "userNum":"1410379783323",
+            "location": [119.39959069, 32.28519590]
+        },
+        {
+            "siteType":"开发区工情站",
+            "siteName":"吕桥河闸（闸上游雷达+闸位）",
+            "remarks":"闸上游水位、1个闸位计",
+            "explain":"1孔闸",
+            "stationCode":"627B038C",
+            "userNum":"1410379783323",
+            "location": [119.43789336, 32.27357409]
+        },
+        {
+            "siteType":"开发区工情站",
+            "siteName":"吕桥河闸（闸上游雷达+闸位）",
+            "remarks":"闸上游水位、1个闸位计",
+            "explain":"1孔闸",
+            "stationCode":"627B038C",
+            "userNum":"1410379783323",
+            "location": [119.43789336, 32.27357410]
+        },
+        {
+            "siteType":"开发区工情站",
+            "siteName":"吕桥河闸（闸上游雷达+闸位）",
+            "remarks":"闸上游水位、1个闸位计",
+            "explain":"1孔闸",
+            "stationCode":"627B038C",
+            "userNum":"1410379783323",
+            "location": [119.43438838, 32.29361799]
+        },
+        {
+            "siteType":"开发区工情站",
+            "siteName":"吕桥河闸（闸上游雷达+闸位）",
+            "remarks":"闸上游水位、1个闸位计",
+            "explain":"1孔闸",
+            "stationCode":"627B038C",
+            "userNum":"1410379783323",
+            "location": [119.44330508, 32.29102468]
+        },
+        {
+            "siteType":"开发区工情站",
+            "siteName":"吕桥河闸（闸上游雷达+闸位）",
+            "remarks":"闸上游水位、1个闸位计",
+            "explain":"1孔闸",
+            "stationCode":"627B038C",
+            "userNum":"1410379783323",
+            "location": [119.44330508, 32.29102468]
+        },
+        {
+            "siteType":"开发区工情站",
+            "siteName":"吕桥河闸（闸上游雷达+闸位）",
+            "remarks":"闸上游水位、1个闸位计",
+            "explain":"1孔闸",
+            "stationCode":"627B038C",
+            "userNum":"1410379783323",
+            "location": [119.46721702, 32.30686730]
+        },
+        {
+            "siteType":"开发区工情站",
+            "siteName":"吕桥河闸（闸上游雷达+闸位）",
+            "remarks":"闸上游水位、1个闸位计",
+            "explain":"1孔闸",
+            "stationCode":"627B038C",
+            "userNum":"1410379783323",
+            "location": [119.46575680, 32.31667410]
+        },
+        {
+            "siteType":"开发区工情站",
+            "siteName":"吕桥河闸（闸上游雷达+闸位）",
+            "remarks":"闸上游水位、1个闸位计",
+            "explain":"1孔闸",
+            "stationCode":"627B038C",
+            "userNum":"1410379783323",
+            "location": [119.46575680, 32.31667410]
+        },
+        {
+            "siteType":"开发区工情站",
+            "siteName":"吕桥河闸（闸上游雷达+闸位）",
+            "remarks":"闸上游水位、1个闸位计",
+            "explain":"1孔闸",
+            "stationCode":"627B038C",
+            "userNum":"1410379783323",
+            "location": [119.44747219, 32.27322927]
+        },
+        {
+            "siteType":"邗江区工情站",
+            "siteName":"军桥站（内河雷达+外河激光+多功能仪表）",
+            "remarks":"外河水位、内河水位、3个多功能仪表",
+            "explain":"3台泵",
+            "stationCode":"627B052C",
+            "userNum":"1410379789242",
+            "location": [119.38705509,32.24052946]
+        },
+        {
+            "siteType":"邗江区工情站",
+            "siteName":"军桥站（内河雷达+外河激光+多功能仪表）",
+            "remarks":"外河水位、内河水位、3个多功能仪表",
+            "explain":"3台泵",
+            "stationCode":"627B052C",
+            "userNum":"1410379789242",
+            "location": [119.38705509,32.24054942]
+        },
+        {
+            "siteType":"邗江区工情站",
+            "siteName":"军桥站（内河雷达+外河激光+多功能仪表）",
+            "remarks":"外河水位、内河水位、3个多功能仪表",
+            "explain":"3台泵",
+            "stationCode":"627B052C",
+            "userNum":"1410379789242",
+            "location": [119.39880288,32.28925067]
+        },
+        {
+            "siteType":"邗江区工情站",
+            "siteName":"军桥站（内河雷达+外河激光+多功能仪表）",
+            "remarks":"外河水位、内河水位、3个多功能仪表",
+            "explain":"3台泵",
+            "stationCode":"627B052C",
+            "userNum":"1410379789242",
+            "location": [119.34766614,32.29497378]
+        },
+        {
+            "siteType":"邗江区工情站",
+            "siteName":"军桥站（内河雷达+外河激光+多功能仪表）",
+            "remarks":"外河水位、内河水位、3个多功能仪表",
+            "explain":"3台泵",
+            "stationCode":"627B052C",
+            "userNum":"1410379789242",
+            "location": [119.34766614,32.29497378]
+        },
+        {
+            "siteType":"邗江区工情站",
+            "siteName":"军桥站（内河雷达+外河激光+多功能仪表）",
+            "remarks":"外河水位、内河水位、3个多功能仪表",
+            "explain":"3台泵",
+            "stationCode":"627B052C",
+            "userNum":"1410379789242",
+            "location": [119.35282457,32.30313323]
+        },
+        {
+            "siteType":"邗江区工情站",
+            "siteName":"军桥站（内河雷达+外河激光+多功能仪表）",
+            "remarks":"外河水位、内河水位、3个多功能仪表",
+            "explain":"3台泵",
+            "stationCode":"627B052C",
+            "userNum":"1410379789242",
+            "location": [119.36345671,32.30877659]
+        },
+        {
+            "siteType":"邗江区工情站",
+            "siteName":"军桥站（内河雷达+外河激光+多功能仪表）",
+            "remarks":"外河水位、内河水位、3个多功能仪表",
+            "explain":"3台泵",
+            "stationCode":"627B052C",
+            "userNum":"1410379789242",
+            "location": [119.36345671,32.30877659]
+        },
+        {
+            "siteType":"邗江区工情站",
+            "siteName":"军桥站（内河雷达+外河激光+多功能仪表）",
+            "remarks":"外河水位、内河水位、3个多功能仪表",
+            "explain":"3台泵",
+            "stationCode":"627B052C",
+            "userNum":"1410379789242",
+            "location": [119.39173505,32.32791287]
+        },
+        {
+            "siteType":"邗江区工情站",
+            "siteName":"军桥站（内河雷达+外河激光+多功能仪表）",
+            "remarks":"外河水位、内河水位、3个多功能仪表",
+            "explain":"3台泵",
+            "stationCode":"627B052C",
+            "userNum":"1410379789242",
+            "location": [119.39173505,32.32791287]
+        },
+        {
+            "siteType":"邗江区工情站",
+            "siteName":"军桥站（内河雷达+外河激光+多功能仪表）",
+            "remarks":"外河水位、内河水位、3个多功能仪表",
+            "explain":"3台泵",
+            "stationCode":"627B052C",
+            "userNum":"1410379789242",
+            "location": [119.38863458,32.34534501]
+        },
+        {
+            "siteType":"邗江区工情站",
+            "siteName":"军桥站（内河雷达+外河激光+多功能仪表）",
+            "remarks":"外河水位、内河水位、3个多功能仪表",
+            "explain":"3台泵",
+            "stationCode":"627B052C",
+            "userNum":"1410379789242",
+            "location": [119.38597735,32.35546895]
+        },
+        {
+            "siteType":"邗江区工情站",
+            "siteName":"军桥站（内河雷达+外河激光+多功能仪表）",
+            "remarks":"外河水位、内河水位、3个多功能仪表",
+            "explain":"3台泵",
+            "stationCode":"627B052C",
+            "userNum":"1410379789242",
+            "location": [119.37119193,32.35383031]
+        },
+        {
+            "siteType":"邗江区工情站",
+            "siteName":"军桥站（内河雷达+外河激光+多功能仪表）",
+            "remarks":"外河水位、内河水位、3个多功能仪表",
+            "explain":"3台泵",
+            "stationCode":"627B052C",
+            "userNum":"1410379789242",
+            "location": [119.37549977,32.33593738]
+        },
+        {
+            "siteType":"邗江区工情站",
+            "siteName":"军桥站（内河雷达+外河激光+多功能仪表）",
+            "remarks":"外河水位、内河水位、3个多功能仪表",
+            "explain":"3台泵",
+            "stationCode":"627B052C",
+            "userNum":"1410379789242",
+            "location": [119.37549977,32.33593738]
+        },
+        {
+            "siteType":"邗江区工情站",
+            "siteName":"军桥站（内河雷达+外河激光+多功能仪表）",
+            "remarks":"外河水位、内河水位、3个多功能仪表",
+            "explain":"3台泵",
+            "stationCode":"627B052C",
+            "userNum":"1410379789242",
+            "location": [119.37549977,32.33593738]
+        },
+        {
+            "siteType":"邗江区工情站",
+            "siteName":"军桥站（内河雷达+外河激光+多功能仪表）",
+            "remarks":"外河水位、内河水位、3个多功能仪表",
+            "explain":"3台泵",
+            "stationCode":"627B052C",
+            "userNum":"1410379789242",
+            "location": [119.44964008,32.42228207]
+        },
+        {
+            "siteType":"邗江区工情站",
+            "siteName":"军桥站（内河雷达+外河激光+多功能仪表）",
+            "remarks":"外河水位、内河水位、3个多功能仪表",
+            "explain":"3台泵",
+            "stationCode":"627B052C",
+            "userNum":"1410379789242",
+            "location": [119.45711612,32.41764599]
+        },
+        {
+            "siteType":"邗江区工情站",
+            "siteName":"军桥站（内河雷达+外河激光+多功能仪表）",
+            "remarks":"外河水位、内河水位、3个多功能仪表",
+            "explain":"3台泵",
+            "stationCode":"627B052C",
+            "userNum":"1410379789242",
+            "location": [119.47354944,32.42482177]
+        },
+        {
+            "siteType":"邗江区工情站",
+            "siteName":"军桥站（内河雷达+外河激光+多功能仪表）",
+            "remarks":"外河水位、内河水位、3个多功能仪表",
+            "explain":"3台泵",
+            "stationCode":"627B052C",
+            "userNum":"1410379789242",
+            "location": [119.47357958,32.42279171]
+        },
+        {
+            "siteType":"邗江区工情站",
+            "siteName":"军桥站（内河雷达+外河激光+多功能仪表）",
+            "remarks":"外河水位、内河水位、3个多功能仪表",
+            "explain":"3台泵",
+            "stationCode":"627B052C",
+            "userNum":"1410379789242",
+            "location": [119.38327495,32.36774797]
+        },
+        {
+            "siteType":"邗江区工情站",
+            "siteName":"军桥站（内河雷达+外河激光+多功能仪表）",
+            "remarks":"外河水位、内河水位、3个多功能仪表",
+            "explain":"3台泵",
+            "stationCode":"627B052C",
+            "userNum":"1410379789242",
+            "location": [119.36567087,32.24594679]
+        },
+        {
+            "siteType":"邗江区工情站",
+            "siteName":"军桥站（内河雷达+外河激光+多功能仪表）",
+            "remarks":"外河水位、内河水位、3个多功能仪表",
+            "explain":"3台泵",
+            "stationCode":"627B052C",
+            "userNum":"1410379789242",
+            "location": [119.37751220,32.36596039]
+        },
+        {
+            "siteType":"邗江区工情站",
+            "siteName":"军桥站（内河雷达+外河激光+多功能仪表）",
+            "remarks":"外河水位、内河水位、3个多功能仪表",
+            "explain":"3台泵",
+            "stationCode":"627B052C",
+            "userNum":"1410379789242",
+            "location": [119.37751220,32.36596039]
+        },
+        {
+            "siteType":"邗江区工情站",
+            "siteName":"军桥站（内河雷达+外河激光+多功能仪表）",
+            "remarks":"外河水位、内河水位、3个多功能仪表",
+            "explain":"3台泵",
+            "stationCode":"627B052C",
+            "userNum":"1410379789242",
+            "location": [119.37423342,32.3494279]
+        },
+        {
+            "siteType":"邗江区工情站",
+            "siteName":"军桥站（内河雷达+外河激光+多功能仪表）",
+            "remarks":"外河水位、内河水位、3个多功能仪表",
+            "explain":"3台泵",
+            "stationCode":"627B052C",
+            "userNum":"1410379789242",
+            "location": [119.33600765,32.34028742]
+        },
+        {
+            "siteType":"邗江区工情站",
+            "siteName":"军桥站（内河雷达+外河激光+多功能仪表）",
+            "remarks":"外河水位、内河水位、3个多功能仪表",
+            "explain":"3台泵",
+            "stationCode":"627B052C",
+            "userNum":"1410379789242",
+            "location": [119.32977859,32.36463488]
+        },
+        {
+            "siteType":"邗江区工情站",
+            "siteName":"军桥站（内河雷达+外河激光+多功能仪表）",
+            "remarks":"外河水位、内河水位、3个多功能仪表",
+            "explain":"3台泵",
+            "stationCode":"627B052C",
+            "userNum":"1410379789242",
+            "location": [119.40354174,32.38841117]
+        },
+        {
+            "siteType":"邗江区工情站",
+            "siteName":"军桥站（内河雷达+外河激光+多功能仪表）",
+            "remarks":"外河水位、内河水位、3个多功能仪表",
+            "explain":"3台泵",
+            "stationCode":"627B052C",
+            "userNum":"1410379789242",
+            "location": [119.34029278,32.31970420]
+        },
+        {
+            "siteType":"邗江区工情站",
+            "siteName":"军桥站（内河雷达+外河激光+多功能仪表）",
+            "remarks":"外河水位、内河水位、3个多功能仪表",
+            "explain":"3台泵",
+            "stationCode":"627B052C",
+            "userNum":"1410379789242",
+            "location": [119.33411553,32.34838998]
+        },
+        {
+            "siteType":"邗江区工情站",
+            "siteName":"军桥站（内河雷达+外河激光+多功能仪表）",
+            "remarks":"外河水位、内河水位、3个多功能仪表",
+            "explain":"3台泵",
+            "stationCode":"627B052C",
+            "userNum":"1410379789242",
+            "location": [119.33311128,32.35269137]
+        },
+        {
+            "siteType":"邗江区工情站",
+            "siteName":"军桥站（内河雷达+外河激光+多功能仪表）",
+            "remarks":"外河水位、内河水位、3个多功能仪表",
+            "explain":"3台泵",
+            "stationCode":"627B052C",
+            "userNum":"1410379789242",
+            "location": [119.33169256,32.35871955]
+        },
+        {
+            "siteType":"邗江区工情站",
+            "siteName":"军桥站（内河雷达+外河激光+多功能仪表）",
+            "remarks":"外河水位、内河水位、3个多功能仪表",
+            "explain":"3台泵",
+            "stationCode":"627B052C",
+            "userNum":"1410379789242",
+            "location": [119.34139400,32.30966900]
+        },
+        {
+            "siteType":"邗江区工情站",
+            "siteName":"军桥站（内河雷达+外河激光+多功能仪表）",
+            "remarks":"外河水位、内河水位、3个多功能仪表",
+            "explain":"3台泵",
+            "stationCode":"627B052C",
+            "userNum":"1410379789242",
+            "location": [119.34139400,32.30966900]
+        },
+        {
+            "siteType":"邗江区工情站",
+            "siteName":"军桥站（内河雷达+外河激光+多功能仪表）",
+            "remarks":"外河水位、内河水位、3个多功能仪表",
+            "explain":"3台泵",
+            "stationCode":"627B052C",
+            "userNum":"1410379789242",
+            "location": [119.35524563,32.34291280]
+        }
+        
+    ]
+  }
+  
